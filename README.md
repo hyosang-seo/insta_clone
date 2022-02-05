@@ -1,3 +1,3 @@
 # insta_clone
 
-## Used cookiecutter
+Used cookiecutter
